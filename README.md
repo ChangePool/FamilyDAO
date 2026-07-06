@@ -12,15 +12,15 @@ We all have families, or families of origin. We live in a time where more than e
 
 ## Problem Statement
 
-
+- Embedding AI tools in how we learn, work and make decisions without fully understanding the immediate or long-term consequences creates a need for online spaces supporting meaningful and healthy social interaction and engagement between people, providing a safety net or insurance policy for exercising judgement, critical thinking and intellectual independence.
 
 ## Research Objectives and Questions
 
-
+- Develop a business plan and project requirements to develop and bring FamilyDAO to market
 
 ## Literature Review
 
-
+- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices 
 
 ## Proposed Methodology
 
