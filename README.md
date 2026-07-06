@@ -8,7 +8,7 @@ The Web3 industry needs mass adoption. However, cryptocurrency trading practices
 
 FamilyDAO offers a socially useful, positive-sum and easy-to-use product for the lay person to understand, learn and experience first hand the exciting new benefits, possibilities and advantages that the discovery of blockchain technologies offers everyone in the world.
 
-We all have families, or families of origin. We live in a time where more than ever family members may be separated—by geography, emotions, politics and war. FamilyDAO allows you to create a secure, encrypted blockchain just for you and your family, stored only on your computers and devices.
+We all have families, or families of origin. We live in a time where more than ever family members may be separated—by geography, emotions, politics and war. FamilyDAO allows you to create a secure, encrypted blockchain just for you and your family, stored only on your physical or virtual computers and devices.
 
 On your family blockchain, you can create a genogram family tree including relationships spanning any number of generations. Only you and family members you designate in your FamilyDAO can add or update records detailing births, deaths, marriages, divorces and other significant events to your family tree. Together, you can add important supporting documents and records, share news with each other, and learn to vote privately to make decisions on important family matters collectively. You can define rules for weighting and voting within your family, as well as rules for creating rules for weighting and voting, as you may choose.
 
