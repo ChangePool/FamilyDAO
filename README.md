@@ -16,7 +16,7 @@ FamilyDAO may help provide new opportunities for families learning how to resolv
 
 If family members are far away, then maintaining communication by distributing and synchronizing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family want. FamilyDAO blockchains may be passed down, inherited and collected over generations.
 
-Your family relationships and history become immutable—shared, preserved and commemorating current and future generations only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
+Your family relationships and history become immutable—shared, preserved and commemorating past, current and future generations in a unique resource only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
 ## Problem Statement
 
