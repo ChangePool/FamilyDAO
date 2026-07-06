@@ -12,7 +12,7 @@ We all have families, or families of origin. We live in a time where more than e
 
 On your family blockchain, you can create a genogram family tree including relationships spanning any number of generations. Only you and family members you designate in your FamilyDAO can add or update records detailing births, deaths, marriages, divorces and other significant events to your family tree. Together, you can add important supporting documents and records of any nature; share news with each other; and, vote privately to make decisions on important family matters collectively. You can define rules for weighting and voting within your family, as well as rules for creating rules for weighting and voting, as you may choose.
 
-FamilyDAO may help provide new opportunities for families learning how to resolve or overcome conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating inclusively on important matters using blockchain as a trusted intermediary tool.
+FamilyDAO may help provide new opportunities for families learning how to resolve or overcome internal conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating inclusively on important matters using blockchain as a trusted intermediary tool.
 
 If family members are far away, then maintaining communication by distributing and synchronizing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want. FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
 
