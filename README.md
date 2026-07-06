@@ -14,7 +14,7 @@ On your family blockchain, you can create a genogram family tree including relat
 
 FamilyDAO may help provide new opportunities for families learning how to resolve or overcome conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating inclusively on important matters using blockchain as a trusted intermediary tool.
 
-If family members are far away, then maintaining communication by distributing and synchronizing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want. FamilyDAO blockchains are intended to be passed down, inherited and collected over generations.
+If family members are far away, then maintaining communication by distributing and synchronizing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want. FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
 
 Using FamilyDAO to preserve, share and commemorate details related to family relationships and history creates an immutable, unique and timeless resource and reference for current and future generations, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
