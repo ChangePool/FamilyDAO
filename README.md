@@ -42,7 +42,7 @@ A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/pat
 
 ## Data Collection and Analysis
 
-Creating FamilyDAO as a free open-source software development project facilitates studying, changing and improving the design publicly.
+Creating FamilyDAO as an open-source software development project facilitates studying, changing and improving the design publicly.
 
 ## Significance and Expected Outcomes
 
