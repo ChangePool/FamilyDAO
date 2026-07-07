@@ -54,6 +54,8 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 
 ## References
 
+Bowen Center for the Study of the Family. (1975). Retrieved July 7, 2026, from [https://www.thebowencenter.org/](https://www.thebowencenter.org/)
+
 Multicultural Family Institute. (2023). Standard Symbols for Genograms. Retrieved July 7, 2026, from [https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/](https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/)
 
 Royal Bank of Canada Wealth Management. (2026). When Should I Consider a Family Office? Retrieved July 7, 2026, from [https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office](https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office)
