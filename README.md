@@ -24,21 +24,27 @@ Embedding AI tools in how we learn, work and make decisions without fully unders
 
 ## Research Objectives and Questions
 
-How can a decentralized software application helping families securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+How can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
 ## Literature Review
 
-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices 
+A **genogram** is a detailed, specialized diagram of a family tree that tracks medical histories, psychological traits and relationship dynamics across multiple generations.
+
+A **decentralized software application** is a program that runs on a peer-to-peer (P2P) blockchain network rather than on a single centralized server.
+
+A preliminary US patent search reveals no ideas related to decentralizing genograms to benefit users.
 
 ## Proposed Methodology
 
+The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of creating and implementing FamilyDAO as an open-source, decentralized software application.
 
+<!-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices -->
 
 ## Data Collection and Analysis
 
-
+Creating FamilyDAO as a free open-source software development project facilitates studying, changing and improving the design publicly.
 
 ## Significance and Expected Outcomes
 
