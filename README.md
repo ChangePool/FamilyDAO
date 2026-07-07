@@ -54,3 +54,5 @@ How can a decentralized software application helping families securely and priva
 
 ## References
 
+Multicultural Family Institute. (2023). Standard Symbols for Genograms. Retrieved July 7, 2026, from [https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/](https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/)
+
