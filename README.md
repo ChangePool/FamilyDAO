@@ -1,10 +1,8 @@
 # FamilyDAO
 
-## Problem Statement
+## Introduction
 
 Relevant to **AI and Cognition**, if embedding artificial intelligence (AI) tools raises vital questions about how judgment, critical thinking and intellectual independence may change, then creating online spaces supporting meaningful and healthy social interaction and engagement between people for exercising judgement, critical thinking and intellectual independence becomes more important and valuable to individuals, groups and society.
-
-## Abstract
 
 The Web3 industry needs mass adoption. However, cryptocurrency trading practices tend to reflect zero-sum thinking focussing only on addressing the most fundamental requirements for human survival. Currently, blockchain development efforts tend to focus on adoption of blockchain technologies by centralized institutions and authorities as a stepping stone to achieving mass adoption. Historically, we are used to efforts to dominate markets rewarding business. As a consequence, the unique benefits that blockchain technologies may offer to the commons and society as a whole are easily lost on the average citizen. Distinctly in contrast to business practices by necessity always seeking to dominate the largest market share possible, a successful blockchain requires decentralization, becoming worthless when a single actor controls more than 50 percent of the network. Successful mass adoption of blockchain technologies must involve education, practice and experience over the longer term using blockchain technologies to help find balance with others peacefully through compromise, cooperation and collaboration.
 
