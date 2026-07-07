@@ -45,7 +45,7 @@ The expected outcome is FamilyDAO eventually becoming a sustainable, mainstream,
 
 ## Expected Contributions
 
-Research and development of FamilyDAO would benefit from contributions by the following CHG resources:
+Research and development of FamilyDAO would benefit from contributions by the following Center for Humane Technology resources:
 
 * Senior Director of Strategy and Impact
 * Research Team
