@@ -26,9 +26,9 @@ How can a decentralized software application helping families around the world s
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
-## Proposed Methodology and Tentative Timeline
+## Proposed Methodology
 
-Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of developing and implementing FamilyDAO sustainably as an open-source, decentralized software application.
+The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of developing and implementing FamilyDAO sustainably as an open-source, decentralized software application.
 
 <!-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices -->
 
