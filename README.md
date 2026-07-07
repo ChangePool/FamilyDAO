@@ -36,9 +36,9 @@ A **decentralized software application** is a program that runs on a peer-to-pee
 
 A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no ideas related to decentralizing genograms to benefit users.
 
-## Proposed Methodology
+## Proposed Methodology and Tentative Timeline
 
-The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of creating and implementing FamilyDAO sustainably as an open-source, decentralized software application.
+Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of creating and implementing FamilyDAO sustainably as an open-source, decentralized software application.
 
 <!-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices -->
 
@@ -48,17 +48,18 @@ Creating FamilyDAO as a free open-source software development project facilitate
 
 ## Significance and Expected Outcomes
 
-FamilyDAO aims to offer a secure, private, easy-to-use platform helping to honour generations of families, human connections and social networks without surveillance by big tech and centralized authorities.
+FamilyDAO aims to offer a secure, private, easy-to-use platform helping to honour generations of families, human connections and social networks without surveillance by centralizeed technology companies.
 
 The expected outcome is FamilyDAO becoming a mainstream, everyday tool for the general public.
 
 ## Expected Contributions
 
+Research and development of FamilyDAO would benefit from contributions by:
 
-
-## Tentative Timeline
-
-
+* Senior Director of Strategy and Impact
+* CHT Research Team
+* Graphic design support
+* CHT PR agency
 
 ## References
 
