@@ -20,9 +20,9 @@ If family members are far away, then maintaining communication by distributing a
 
 Using FamilyDAO to preserve, share and commemorate details related to family relationships and history creates an immutable, unique and timeless resource and reference for current and future generations, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
-## Research Objectives and Questions
+## Research Question
 
-How can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+How may a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
