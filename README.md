@@ -50,7 +50,7 @@ Creating FamilyDAO as a free open-source software development project facilitate
 
 FamilyDAO aims to offer a secure, private, easy-to-use platform helping to honour generations of families, human connections and social networks without surveillance by centralizeed technology companies.
 
-The expected outcome is FamilyDAO becoming a mainstream, everyday tool for the general public.
+The expected outcome is FamilyDAO eventually becoming a sustainable, mainstream, everyday tool for the general public.
 
 ## Expected Contributions
 
