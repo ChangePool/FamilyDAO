@@ -30,7 +30,7 @@ How may a decentralized software application helping families around the world s
 
 A **decentralized software application** is a program that runs on a peer-to-peer (P2P) blockchain network rather than on a single centralized server. -->
 
-A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no patented ideas related to a useful method for decentralizing genogram data privately and securely.
+A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no patented ideas related to a useful method for decentralizing stored genogram data privately and securely using computers.
 
 ## Proposed Methodology
 
