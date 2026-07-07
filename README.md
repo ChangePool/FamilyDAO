@@ -26,6 +26,12 @@ How can a decentralized software application helping families around the world s
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
+## Proposed Methodology and Tentative Timeline
+
+Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of creating and implementing FamilyDAO sustainably as an open-source, decentralized software application.
+
+<!-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices -->
+
 ## Literature Review
 
 A **genogram** is a detailed, specialized diagram of a family tree that tracks medical histories, psychological traits and relationship dynamics across multiple generations.
@@ -33,12 +39,6 @@ A **genogram** is a detailed, specialized diagram of a family tree that tracks m
 A **decentralized software application** is a program that runs on a peer-to-peer (P2P) blockchain network rather than on a single centralized server.
 
 A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no ideas related to a useful method for decentralizing genogram data.
-
-## Proposed Methodology and Tentative Timeline
-
-Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of creating and implementing FamilyDAO sustainably as an open-source, decentralized software application.
-
-<!-- Elicit multicultural requirements for FamilyDAO features and functionality from individuals and family offices -->
 
 ## Data Collection and Analysis
 
