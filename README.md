@@ -26,9 +26,9 @@ How may a decentralized software application helping families around the world s
 
 ## Literature Review
 
-A **genogram** is a detailed, specialized diagram of a family tree that tracks medical histories, psychological traits and relationship dynamics across multiple generations.
+<!-- A **genogram** is a detailed, specialized diagram of a family tree that tracks medical histories, psychological traits and relationship dynamics across multiple generations.
 
-A **decentralized software application** is a program that runs on a peer-to-peer (P2P) blockchain network rather than on a single centralized server.
+A **decentralized software application** is a program that runs on a peer-to-peer (P2P) blockchain network rather than on a single centralized server. -->
 
 A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no ideas related to a useful method for decentralizing genogram data.
 
