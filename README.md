@@ -39,7 +39,7 @@ The current proposal aims to elicit requirements for FamilyDAO features and func
 
 ## Significance and Expected Outcomes
 
-FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralizing data storage on servers controlled by technology companies.
+FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies.
 
 The expected outcome is FamilyDAO eventually becoming a sustainable, mainstream, everyday tool for the general public.
 
