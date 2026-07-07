@@ -20,11 +20,11 @@ Using FamilyDAO to preserve, share and commemorate details related to family rel
 
 ## Problem Statement
 
-Relevant to the focus area of **AI and Cognition**, embedding AI tools in how we learn, work and make decisions without fully understanding the immediate or long-term consequences creates a need for online spaces supporting meaningful and healthy social interaction and engagement between people for exercising judgement, critical thinking and intellectual independence.
+Relevant to **AI and Cognition**, embedding AI tools in how we learn, work and make decisions without fully understanding the immediate or long-term consequences creates a need for online spaces supporting meaningful and healthy social interaction and engagement between people for exercising judgement, critical thinking and intellectual independence.
 
 ## Research Objectives and Questions
 
-Relevant to the focus area of **AI and Relationships**, how can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+Relevant to **AI and Relationships**, how can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
