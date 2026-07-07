@@ -24,7 +24,9 @@ Using FamilyDAO to preserve, share and commemorate details related to family rel
 
 ## Research Objectives and Questions
 
-- Develop a business plan and project requirements to develop and bring FamilyDAO to market
+How can a decentralized software application helping families securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+
+<!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
 ## Literature Review
 
