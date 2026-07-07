@@ -24,7 +24,7 @@ Embedding AI tools in how we learn, work and make decisions without fully unders
 
 ## Research Objectives and Questions
 
-How can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+Relevant to the focus areas of **AI and Cognition** and **AI and Relationships**, how can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
