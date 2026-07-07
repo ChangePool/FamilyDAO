@@ -8,7 +8,7 @@ Relevant to **AI and Cognition**, if embedding artificial intelligence (AI) tool
 
 The Web3 industry needs mass adoption. However, cryptocurrency trading practices tend to reflect zero-sum thinking focussing only on addressing the most fundamental requirements for human survival. Currently, blockchain development efforts tend to focus on adoption of blockchain technologies by centralized institutions and authorities as a stepping stone to achieving mass adoption. Historically, we are used to efforts to dominate markets rewarding business. As a consequence, the unique benefits that blockchain technologies may offer to the commons and society as a whole are easily lost on the average citizen. Distinctly in contrast to business practices by necessity always seeking to dominate the largest market share possible, a successful blockchain requires decentralization, becoming worthless when a single actor controls more than 50 percent of the network. Successful mass adoption of blockchain technologies must involve education, practice and experience over the longer term using blockchain technologies to help find balance with others peacefully through compromise, cooperation and collaboration.
 
-FamilyDAO offers a socially useful, positive-sum and easy-to-use product for the lay person to understand, learn and experience first hand the exciting new benefits, possibilities and advantages that the discovery of blockchain technologies offers everyone in the world.
+Relevant to **AI and Relationships**, FamilyDAO offers a socially useful, positive-sum and easy-to-use product for the lay person to understand, learn and experience first hand the exciting new benefits, possibilities and advantages that the discovery of blockchain technologies offers everyone in the world.
 
 We all have families, or families of origin. We live in a time where more than ever family members may be separated—by geography, emotions, politics and war. FamilyDAO allows you to create a secure, encrypted blockchain just for you and your family, stored only on your physical or virtual computers and devices.
 
@@ -22,7 +22,7 @@ Using FamilyDAO to preserve, share and commemorate details related to family rel
 
 ## Research Objectives and Questions
 
-Relevant to **AI and Relationships**, how can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
+How can a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
