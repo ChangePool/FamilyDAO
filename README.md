@@ -1,6 +1,6 @@
 # FamilyDAO
 
-## Executive Summary
+## Abstract
 
 If embedding artificial intelligence (AI) tools raises critical questions about how judgment, critical thinking and intellectual independence may change, then creating online spaces where people may interact and connect meaningfully without constant surveillance by centralized authorities becomes more important and valuable to individuals, groups and society.
 
