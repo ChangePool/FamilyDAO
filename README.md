@@ -43,6 +43,7 @@ FamilyDAO aims to offer a secure, private and easy-to-use platform helping to ho
 
 The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
 
+<!--
 ## Expected Contributions
 
 Research and development of FamilyDAO would benefit from contributions by the following Center for Humane Technology resources:
@@ -51,6 +52,7 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 * Research Team
 * Graphic design support
 * Public relations agency
+-->
 
 ## References
 
