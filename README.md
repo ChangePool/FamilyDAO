@@ -35,7 +35,7 @@ A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/pat
 ## Proposed Methodology
 
 <!-- Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the -->
-The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of developing and implementing FamilyDAO sustainably as an open-source, decentralized software application development project that facilitates studying, changing and improving the design publicly.
+The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of developing and implementing FamilyDAO sustainably as an open-source, decentralized software application development project that facilitates studying, changing and improving the design transparently.
 
 ## Significance and Expected Outcomes
 
