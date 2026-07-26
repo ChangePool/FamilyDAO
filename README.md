@@ -61,6 +61,7 @@ Bowen Center for the Study of the Family. (1975). Retrieved July 7, 2026, from [
 Chainlink. (2026). What Is a 51% Attack? Retrieved July 7, 2026, from [https://chain.link/article/what-is-a-51-attack](https://chain.link/article/what-is-a-51-attack)
 
 Comforting Loss, Celebrating Life. (2026). Retrieved July 26, 2026, from [https://www.bcfunerals.com/](https://www.bcfunerals.com/)
+<!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
 
 Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn: Melville House.
 
@@ -74,6 +75,4 @@ RealFi. (2026). RealFi. Retrieved July 24, 2026, from [https://realfi.co/](https
 Royal Bank of Canada Wealth Management. (2026). When Should I Consider a Family Office? Retrieved July 7, 2026, from [https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office](https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office)
 
 <!-- Related to chat functionality, there are probably large chunks of code from Zion that may be helpful or even repurposed. -->
-
-<!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
 
