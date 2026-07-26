@@ -72,3 +72,6 @@ RealFi. (2026). RealFi. Retrieved July 24, 2026, from [https://realfi.co/](https
 Royal Bank of Canada Wealth Management. (2026). When Should I Consider a Family Office? Retrieved July 7, 2026, from [https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office](https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office)
 
 <!-- Related to chat functionality, there are probably large chunks of code from Zion that may be helpful or even repurposed. -->
+
+<!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
+
