@@ -56,6 +56,8 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 
 ## Resources
 
+Ancestry. (2026). Retrieved August 2, 2026, from [https://www.ancestry.com/](https://www.ancestry.com/)
+
 Bowen Center for the Study of the Family. (1975). Retrieved July 7, 2026, from [https://www.thebowencenter.org/](https://www.thebowencenter.org/)
 
 Chainlink. (2026). What Is a 51% Attack? Retrieved July 7, 2026, from [https://chain.link/article/what-is-a-51-attack](https://chain.link/article/what-is-a-51-attack)
