@@ -1,6 +1,6 @@
 # FamilyDAO
 
-<p align="center">Dedicated to:</p>
+<p align="center">The FamilyDAO project is dedicated to:</p>
 
 <p align="center"><b>Tim Lloyd</b></p>
 
