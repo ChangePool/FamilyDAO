@@ -1,5 +1,9 @@
 # FamilyDAO
 
+<p align="center">The FamilyDAO project is dedicated to:</p>
+
+<p align="center">Tim Lloyd</p>
+
 ## Introduction
 
 Relevant to **AI and Cognition**, if embedding artificial intelligence (AI) tools raises vital questions about how judgment, critical thinking and intellectual independence may change, then creating online spaces supporting meaningful and healthy social interaction and engagement between people for exercising judgement, critical thinking and intellectual independence becomes more important and valuable to individuals, groups and society.
