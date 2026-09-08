@@ -1,8 +1,8 @@
+# Introduction
+
 <p align="center">The FamilyDAO project is dedicated to:</p>
 
 <p align="center"><b>Tim Lloyd</b></p>
-
-## Introduction
 
 Relevant to **AI and Cognition**, if embedding artificial intelligence (AI) tools raises vital questions about how judgment, critical thinking and intellectual independence may change, then creating online spaces supporting meaningful and healthy social interaction and engagement between people for exercising judgement, critical thinking and intellectual independence becomes more important and valuable to individuals, groups and society.
 
@@ -20,13 +20,13 @@ If family members are far away, then maintaining communication by distributing a
 
 FamilyDAO is **not** intended as the only medium that families may use to communicate and interact. Using FamilyDAO to preserve, share and commemorate details related to family relationships and history creates an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
-## Research Question
+# Research Question
 
 How may a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
 
 <!-- Develop a business plan and project requirements to develop and bring FamilyDAO to market -->
 
-## Literature Review
+# Literature Review
 
 <!-- A **genogram** is a detailed, specialized diagram of a family tree that tracks medical histories, psychological traits and relationship dynamics across multiple generations.
 
@@ -34,12 +34,12 @@ A **decentralized software application** is a program that runs on a peer-to-pee
 
 A preliminary US [Patent Public Search](https://www.uspto.gov/patents/search/patent-public-search) reveals no patented ideas related to a useful method for decentralizing stored genogram data privately and securely using computers.
 
-## Proposed Methodology
+# Proposed Methodology
 
 <!-- Within the six-month timeline offered by the Center for Humane Technology (CHT) _Emerging Voices in AI and Society Fellowship_, the -->
 The current proposal aims to elicit requirements for FamilyDAO features and functionality from a multicultural sample of individuals and family offices; prepare additional product and project management planning documents; and, network to assemble resources capable of developing and implementing FamilyDAO sustainably as an open-source, decentralized software application development project that facilitates studying, changing and improving the design transparently.
 
-## Significance and Expected Outcomes
+# Significance and Expected Outcomes
 
 FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies, for example to train artificial intelligence tools.
 
@@ -56,7 +56,7 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 * Public relations agency
 -->
 
-## Resources
+# Resources
 
 Ancestry. (2026). Retrieved August 2, 2026, from [https://www.ancestry.com/](https://www.ancestry.com/)
 
