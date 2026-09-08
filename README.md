@@ -1,3 +1,5 @@
+# FamilyDAO
+
 Please refer to the following available planning documents:
 
 * [Proposal](./docs/Proposal.md)
