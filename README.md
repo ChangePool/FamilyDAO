@@ -1,10 +1,4 @@
-# FamilyDAO
-
-<p align="center">The FamilyDAO project is dedicated to:</p>
-
-<p align="center"><b>Tim Lloyd</b></p>
-
-Please refer to the following planning documents:
+Please refer to the following available planning documents:
 
 * [Proposal](./docs/Proposal.md)
 * [Deployment Diagram](./docs/DeploymentDiagram.md)
