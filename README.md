@@ -1,6 +1,6 @@
 # FamilyDAO
 
-<img src="https://github.com/ChangePool/FamilyDAO/blob/b8d9239295dadd6250670ea3355c9cc253cda399/docs/images/SensoricaLogo.png" width="50%">
+<img src="https://github.com/ChangePool/FamilyDAO/blob/b8d9239295dadd6250670ea3355c9cc253cda399/docs/images/SensoricaLogo.png" width="33%">
 
 A ![Sensorica](./docs/images/SensoricaLogo.png) Venture
 
