@@ -1,1 +1,1 @@
-![DeploymentDiagram](./images/DeploymentDiagram.png)
+<p align="center">![DeploymentDiagram](./images/DeploymentDiagram.png)</p>
