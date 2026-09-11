@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>A&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f1479af10b8387dd8c19aa7012ec5cda478d0eb0/docs/images/SensoricaLogo.png" width="50%">&nbsp;&nbsp;Venture</td>
+    <td>A&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f1479af10b8387dd8c19aa7012ec5cda478d0eb0/docs/images/SensoricaLogo.png" width="75%">&nbsp;&nbsp;Venture</td>
   </tr>
 </table>
 
