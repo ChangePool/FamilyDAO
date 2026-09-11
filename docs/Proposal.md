@@ -1,7 +1,5 @@
 # Introduction
 
-<p align="center"><sup>A</sup>&nbsp;&nbsp;<a href="https://www.sensorica.co/"><img src="https://github.com/ChangePool/FamilyDAO/blob/f1479af10b8387dd8c19aa7012ec5cda478d0eb0/docs/images/SensoricaLogo.png"></a>&nbsp;&nbsp;<sup>Venture</sup></p>
-
 <p align="center">The FamilyDAO project is dedicated to:</p>
 
 <p align="center"><b><a href="https://www.smithsfh.com/memorials/timothy-lloyd/5741746/">Tim Lloyd</a></b></p>
