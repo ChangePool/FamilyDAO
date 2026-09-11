@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td>A&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f7d02c8d4d53fceb9074c4630b7e1ce2ae60013b/docs/images/SensoricaLogo.png" width="50%">&nbsp;&nbsp;Venture</td>
+    <td>A&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f1479af10b8387dd8c19aa7012ec5cda478d0eb0/docs/images/SensoricaLogo.png" width="50%">&nbsp;&nbsp;Venture</td>
   </tr>
 </table>
 
-<p align="center"><sup>A</sup>&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f7d02c8d4d53fceb9074c4630b7e1ce2ae60013b/docs/images/SensoricaLogo.png" width="50%">&nbsp;&nbsp;<sup>Venture</sup></p>
+<p align="center"><sup>A</sup>&nbsp;&nbsp;<img src="https://github.com/ChangePool/FamilyDAO/blob/f1479af10b8387dd8c19aa7012ec5cda478d0eb0/docs/images/SensoricaLogo.png" width="50%">&nbsp;&nbsp;<sup>Venture</sup></p>
 
 Please refer to the following available planning documents:
 
