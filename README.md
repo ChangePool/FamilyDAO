@@ -1,6 +1,6 @@
 # FamilyDAO
 
-A Sensorica Venture
+A ![Sensorica](./docs/images/SensoricaLogo.png) Venture
 
 Please refer to the following available planning documents:
 
