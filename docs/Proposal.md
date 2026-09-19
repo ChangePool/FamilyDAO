@@ -64,7 +64,9 @@ Bowen Center for the Study of the Family. (1975). Retrieved July 7, 2026, from [
 
 Chainlink. (2026). What Is a 51% Attack? Retrieved July 7, 2026, from [https://chain.link/article/what-is-a-51-attack](https://chain.link/article/what-is-a-51-attack)
 
-Comforting Loss, Celebrating Life. (2026). Retrieved July 26, 2026, from [https://www.bcfunerals.com/](https://www.bcfunerals.com/)
+CoinPedia. (2026). UAE Integrates Avalanche Blockchain Into National Digital ID Platform. Retrieved September 19, 2026, from [https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/](https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/)
+
+British Columbia Funeral Association. (2026). Comforting Loss, Celebrating Life. Retrieved July 26, 2026, from [https://www.bcfunerals.com/](https://www.bcfunerals.com/)
 <!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
 
 Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn: Melville House.
