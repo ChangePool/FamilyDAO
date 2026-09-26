@@ -65,12 +65,14 @@ Ancestry. (2026). Retrieved August 2, 2026, from [https://www.ancestry.com/](htt
 
 Bowen Center for the Study of the Family. (1975). Retrieved July 7, 2026, from [https://www.thebowencenter.org/](https://www.thebowencenter.org/)
 
+British Columbia Funeral Association. (2026). Comforting Loss, Celebrating Life. Retrieved July 26, 2026, from [https://www.bcfunerals.com/](https://www.bcfunerals.com/)
+<!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
+
 Chainlink. (2026). What Is a 51% Attack? Retrieved July 7, 2026, from [https://chain.link/article/what-is-a-51-attack](https://chain.link/article/what-is-a-51-attack)
 
 CoinPedia. (2026). UAE Integrates Avalanche Blockchain Into National Digital ID Platform. Retrieved September 19, 2026, from [https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/](https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/)
 
-British Columbia Funeral Association. (2026). Comforting Loss, Celebrating Life. Retrieved July 26, 2026, from [https://www.bcfunerals.com/](https://www.bcfunerals.com/)
-<!-- Mortuaries (funeral homes) may be a channel for gathering requirements and offering FamilyDAO to the public. -->
+Economist. (2019). In Much of Africa the Family Is Bank, Business and Welfare State. Retrieved September 26, 2026, from [https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state](https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state)
 
 Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn: Melville House.
 
@@ -88,6 +90,8 @@ Remento. A Keepsake Book That Lets You Hear Their Voice Forever. Retrieved Augus
 Royal Bank of Canada Wealth Management. (2026). When Should I Consider a Family Office? Retrieved July 7, 2026, from [https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office](https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office)
 
 Storyworth. (2026). Help Them See Their Life in a Whole New Light. Retrieved August 10, 2026, from [https://welcome.storyworth.com/](https://welcome.storyworth.com/)
+
+World Bank Group. (2024). Financial Inclusion in Sub-Saharan Africa—Overview. Retrieved September 26, 2026, from [https://www.worldbank.org/en/publication/globalfindex/brief/financial-inclusion-in-sub-saharan-africa-overview](https://www.worldbank.org/en/publication/globalfindex/brief/financial-inclusion-in-sub-saharan-africa-overview)
 
 <!-- Related to chat functionality, there are probably large chunks of code from Zion that may be helpful or even repurposed. -->
 
