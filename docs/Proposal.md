@@ -72,7 +72,7 @@ Chainlink. (2026). What Is a 51% Attack? Retrieved July 7, 2026, from [https://c
 
 CoinPedia. (2026). UAE Integrates Avalanche Blockchain Into National Digital ID Platform. Retrieved September 19, 2026, from [https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/](https://fr.tradingview.com/news/coinpedia:a7c45d2ed094b:0-uae-integrates-avalanche-blockchain-into-national-digital-id-platform/)
 
-Economist. (2019). In Much of Africa the Family Is Bank, Business and Welfare State. Retrieved September 26, 2026, from [https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state](https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state)
+Economist, The. (2019). In Much of Africa the Family Is Bank, Business and Welfare State. Retrieved September 26, 2026, from [https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state](https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state)
 
 Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn: Melville House.
 
