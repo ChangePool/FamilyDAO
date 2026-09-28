@@ -76,6 +76,8 @@ CoinPedia. (2026). UAE Integrates Avalanche Blockchain Into National Digital ID 
 
 Economist, The. (2019). In Much of Africa the Family Is Bank, Business and Welfare State. Retrieved September 26, 2026, from [https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state](https://www.economist.com/middle-east-and-africa/2019/12/12/in-much-of-africa-the-family-is-bank-business-and-welfare-state)
 
+Investopedia. (2026). Organizational Chart: Types, Meaning, and How It Works. Retrieved September 28, 2026, from [https://www.investopedia.com/terms/o/organizational-chart.asp](https://www.investopedia.com/terms/o/organizational-chart.asp)
+
 Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn: Melville House.
 
 Memorygram. (2026). On a Mission To Preserve Precious Memories and Legacy. Retrieved August 10, 2026, from [https://memoirs.memorygram.com/](https://memoirs.memorygram.com/)
