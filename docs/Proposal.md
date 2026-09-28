@@ -61,7 +61,7 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 
 # Notes
 
-<a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart.
+<a name="orgchart"></a><sup>1</sup> In another embodiment allowing you to create a dedicated and secure blockchain for an organization or workplace, the genogram may be replaced with an organizational chart.
 
 # Resources
 
