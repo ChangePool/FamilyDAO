@@ -61,7 +61,7 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 
 # Notes
 
-<a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart conveying the internal structure of an organization or workplace. Records may detail personal, professional and operational data across the entire employee lifecycle, for example.
+<a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart conveying the internal structure of an organization or workplace. Records may detail personal, professional and operational data across the entire employee lifecycle, for example. See also [WorkplaceDAO](https://github.com/ChangePool/WorkplaceDAO).
 
 # Resources
 
