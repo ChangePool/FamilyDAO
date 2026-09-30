@@ -100,6 +100,8 @@ NOĒMA. (2026). We May Be Entering A Second Axial Age. Retrieved July 9, 2026, f
 <!-- RealFi. (2026). RealFi. Retrieved July 24, 2026, from [https://realfi.co/](https://realfi.co/) -->
 <!-- Consider using [RealFi.co](https://realfi.co/) for FamilyDAO, as a platform for dApps providing a bridge to access Cardano as well as EVM chains via the RealFi SDK. For details on the SDK, see GitHub (not yet available, as of July 24, 2026) -->
 
+Recipe Keeper. (2026). The Easiest Way To Organize Your Recipes. Retrieved September 30, 2026, from [https://recipekeeperonline.com/](https://recipekeeperonline.com/)
+
 Remento. A Keepsake Book That Lets You Hear Their Voice Forever. Retrieved August 10, 2026, from [https://www.remento.co/](https://www.remento.co/)
 
 Royal Bank of Canada Wealth Management. (2026). When Should I Consider a Family Office? Retrieved July 7, 2026, from [https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office](https://www.rbcwealthmanagement.com/en-ca/insights/when-should-i-consider-a-family-office)
