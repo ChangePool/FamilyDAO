@@ -30,7 +30,7 @@ FamilyDAO offers your family the capacity to:
 
 FamilyDAO is **not** intended as the only medium that families may use to communicate and interact.
 
-Using FamilyDAO creates an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
+Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
 # Research Question
 
